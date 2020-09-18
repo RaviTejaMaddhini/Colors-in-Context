@@ -1,2 +1,2 @@
 # Colors-in-Context
-Task oriented color descriptions generation using Encoder Decoder Architecture
+Task oriented colors description generation using Encoder Decoder Architecture
